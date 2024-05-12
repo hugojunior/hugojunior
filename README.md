@@ -6,7 +6,7 @@
 ## Sou um Desenvolvedor Back-end.
 - Atualmente trabalho na [Advance Comunicação](https://www.advance.com.br/).
 - No momento estou aprendendo mais sobre desenvolvimento web.
-- Faço o sexto semestre de Sistemas de Informação na [UNI7](https://www.uni7.edu.br/).
+- Faço o sétimo semestre de Sistemas de Informação na [UNI7](https://www.uni7.edu.br/).
 - Contato: contato@hugojunior.com // Discord: hugojunior
 
 [![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hugojunior)
