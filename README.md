@@ -3,7 +3,7 @@
 ## Sobre mim
 Formado em Sistemas de Informação e pós-graduando em Data Science com Inteligência Artificial.
 
-Atuo como desenvolvedor, mas tenho grande interesse nas áreas de Dados, Analytics, Cloud, ML/IA, Segurança e DevOps.
+Trabalho como desenvolvedor back-end, mas tenho grande interesse nas áreas de Dados, Analytics, Cloud, ML/IA, Segurança e DevOps.
 
 <hr>
 
