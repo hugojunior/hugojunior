@@ -1,7 +1,7 @@
 # Olá, bem-vindo! <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 ## Sobre mim
-Formado em Sistemas de Informação e atualmente pós-graduando em Ciência de Dados com Inteligência Artificial.
+Formado em Sistemas de Informação e pós-graduando em Data Science com Inteligência Artificial.
 
 Atuo como desenvolvedor, mas tenho grande interesse nas áreas de Dados, Analytics, Cloud, ML/IA, Segurança e DevOps.
 
